@@ -8,7 +8,7 @@ Any changes to Innova Store might break this application in the future
 
 1. Download https://nodejs.org/en/
 2. Install dependencys -> "npm install" in project directory
-3. Run node index.js {minWeight} {maxWeight}
+3. Run -> "node index.js {minWeight} {maxWeight}"
 
         node index.js 150 156
 
